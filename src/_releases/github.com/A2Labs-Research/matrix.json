@@ -1,0 +1,37 @@
+{
+  "name": "CASTLE (Cyber Agents for Security Testing and Learning Environments) - MATRIX Release",
+  "organization": "DARPA (Defense Advanced Research Projects Agency)/ A2 Labs",
+  "description":  "An open source framework for training cyber agents built from the original TTCP CAGE Challenege 2. Formerly known as the Multi-Agent Trining Exerciser (MATrEx), released as MATRIX. Built in connection with the DARPA CASTLE Effort.",
+  "tags": [
+    "cyber","agentic","simulation","reinforcement learning","multi-agent","training","DARPA","CASTLE"
+  ],
+  "contact": {
+    "email": "jvanroy@a2labs.com"
+  },
+  "status": "Production",
+  "vcs": "git",
+  "downloadURL": "https://github.com/A2Labs-Research/MATRIX.git",
+  "repositoryURL": "https://github.com/A2Labs-Research/MATRIX.git",
+  "homepageURL": "https://github.com/A2Labs-Research/MATRIX.git",
+  "languages": ["Python"],
+  "partners": ["DARPA", "Punch Cyber"],
+  "permissions": {
+    "licenses": [
+      {
+        "URL": "https://github.com/A2Labs-Research/MATRIX/blob/main/LICENSE",
+        "name": "MIT License"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": null
+  },
+  "laborHours": 2080,
+  "version": "1.0.0",
+  "date": {
+    "created": "2026-04-28",
+    "lastModified": "2026-04-28",
+    "metadataLastUpdated": "2026-10-09"
+  },
+  "disclaimerText": "",
+  "disclaimerURL": ""
+}
